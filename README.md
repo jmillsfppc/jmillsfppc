@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmillsfppc
-- 👀 I’m interested in Javascript, Nodejs, Flutter, React, Wordpress
-- 🌱 I’m currently learning React, Ethical Hacking and Data Science
+- 👀 I’m interested in Javascript, Nodejs, Flutter, React, Wordpress, Firebase, MongoDB, Express
+- 🌱 I’m currently learning React, Ethical Hacking, Python, Artficial Intelligence
 - 💞️ I’m looking to collaborate on Project FocusPPC
 - 📫 How to reach me - jeremiah@focusppc.com
 
